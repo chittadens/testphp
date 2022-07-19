@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(157, 163, 170);
+    /* align-items: center; */
+    display: flex;
+}
+form{
+    width: 400px;
+    height: 400px;
+    border: 3px solid rgb(181, 159, 202);
+    padding: 20px;
+   margin-top: 100px;
+   margin-left: 450px;
+   display: inline-block;
+   border-radius: 2px;
+   background-color: aliceblue;
+
+}
+input{
+    display: block;
+    border: 2px solid #ccc; 
+    width: 95%;
+    padding: 10px;
+    border-radius: 2px;
+}
+button{
+    margin-left: 150px;
+}
